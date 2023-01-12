@@ -1,0 +1,12 @@
+# VS Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Python virtual environment
+venv/
+
+# Django files
+migrations/
+db.sqlite3
